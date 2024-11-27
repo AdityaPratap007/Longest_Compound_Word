@@ -1,0 +1,3 @@
+Longest Compound Word: antiauthoritarianisms
+Second Longest Compound Word: antiauthoritarianism
+Time taken: 0.12273573875427246 seconds
